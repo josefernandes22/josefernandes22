@@ -38,6 +38,8 @@ My focus is on using data and technology to improve processes, support decision-
 - Cybersecurity Fundamentals
 - OWASP ZAP
 
+---
+
 ## 📊 Featured Projects
 
 ### Manufacturing Performance Dashboard (PBI)
